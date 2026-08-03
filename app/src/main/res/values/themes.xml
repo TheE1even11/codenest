@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CodeNest" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00A896</item>
+        <item name="colorPrimaryDark">#02525C</item>
+        <item name="colorAccent">#02C39A</item>
+    </style>
+</resources>
