@@ -24,6 +24,7 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
+        isCoreLibraryDesugaringEnabled = true
     }
 
     kotlinOptions {
@@ -40,4 +41,7 @@ dependencies {
     // Sora Editor - Kod editörü kütüphanesi
     implementation("io.github.Rosemoe.sora-editor:editor:0.23.3")
     implementation("io.github.Rosemoe.sora-editor:language-textmate:0.23.3")
+
+    // Core library desugaring için gerekli
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.4")
 }
