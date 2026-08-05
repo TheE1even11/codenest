@@ -1,14 +1,15 @@
 <div align="center">
+  <img src="assets/logo.png" width="140" alt="CodeNest Logo">
+  
+  # 🪺 CodeNest
 
-# 🪺 CodeNest
+  **Android için basit, hızlı ve güçlü kod editörü**
 
-**Android için basit, hızlı ve güçlü kod editörü**
+  Kodunu yaz, anında çalıştır, öğren.
 
-Kodunu yaz, anında çalıştır, öğren.
-
-[![Build Status](https://github.com/TheE1even11/codenest/actions/workflows/android-build.yml/badge.svg)](https://github.com/TheE1even11/codenest/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)](https://developer.android.com)
+  [![Build Status](https://github.com/TheE1even11/codenest/actions/workflows/android-build.yml/badge.svg)](https://github.com/TheE1even11/codenest/actions)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)](https://developer.android.com)
 
 </div>
 
